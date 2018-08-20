@@ -1,14 +1,25 @@
-<style>
-    tr {
-         color:red
-       }
-
-    th {
-         color: green
+    h1{
+         color: green;
+         text-align: center;
          }
 
-    h1 {
-        color: red
-          }
+    h4{
+         color: green;
+         text-align: center;
+         }
 
-</style>
+    th{
+         color: darkgreen;
+         }
+
+    td{
+         color: dark;
+         }
+
+    div{
+         background-color:lightgreen;
+         width:280px;
+         height:80px;
+         margin: 0px;
+         padding:auto;
+    }
